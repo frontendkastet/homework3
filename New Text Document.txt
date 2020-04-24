@@ -1,0 +1,8 @@
+как залить на Git
+
+1. git init
+2. git status (красный показывате что файлы пока не готовы к отправке)
+3. git add -A (сохранение всех файлов)
+4. git commit -m "описание комита"
+5. git remote add origin https://github.com/frontendkastet/homework3.git
+6. git push -u origin master
